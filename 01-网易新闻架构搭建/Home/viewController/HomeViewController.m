@@ -97,6 +97,9 @@
 //点击频道的方法
 -(void)tapClick:(UIGestureRecognizer *)tap
 {
+    
+    
+    
     //获取选中的lab
     channelLab *lab = (channelLab *)tap.view;
     
